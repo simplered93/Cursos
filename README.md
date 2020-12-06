@@ -1,2 +1,5 @@
 # Cursos
- Cursos de programações realizados
+ Olá, Mundo!
+ Cursos de programações realizados.
+ 
+ Repositório criado para adicionar os cursos realizados.
